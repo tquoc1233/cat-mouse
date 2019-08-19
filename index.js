@@ -1,4 +1,4 @@
 var mouse = require('./mouse.js');
 var cat = require('./cat.js');
 
-mouse('Jerry');
+mouse('Jerry1');
