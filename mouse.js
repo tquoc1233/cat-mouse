@@ -1,4 +1,7 @@
-function  Mouse() {
-	console.log('This is function Mouse');
+
+var chalk = require('chalk');
+
+function  Mouse(name) {
+	console.log('This is function Mouse ' + chalk.red(name));
 }
-Mouse();
+module.exports = Mouse;
