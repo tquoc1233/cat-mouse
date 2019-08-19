@@ -1,5 +1,4 @@
 function  Mouse() {
-	var text = 'This is function Mouse';
-	console.log(text);
+	console.log('This is function Mouse');
 }
 Mouse();
